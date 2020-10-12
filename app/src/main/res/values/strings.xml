@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">GITHUB_DMOS5</string>
+    <string name="explicacao_permissao">Permitir permissão para acessar a internet</string>
+    <string name="botao_fornecer">Permitir</string>
+    <string name="botao_nao_fornecer">Não Permitir</string>
+    <string name="user_invalido">Usuario Invalido</string>
+    <string name="erro_api">Erro no request da API</string>
+    <string name="erro_user">Não encontrado</string>
+    <string name="digite_o_usuario_a_ser_consultado">Digite o Usuario a ser consultado</string>
+    <string name="search">Procurar</string>
+    <string name="no_data">Sem Dados</string>
 </resources>
